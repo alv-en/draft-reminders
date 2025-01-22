@@ -3,9 +3,9 @@
 [project Notion page](https://www.notion.so/draft-reminders-17a2237c409980ef8e0bc931ece9c48c?pvs=4)
 
 #### Todos
-[_] schedule cron jobs
-[_] handle attachments
-[_] clean message body
+[ ] schedule cron jobs
+[ ] handle attachments
+[ ] clean message bodys
 
 #### Nice-to-haves
 - text to phone number
