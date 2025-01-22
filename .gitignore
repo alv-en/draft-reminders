@@ -3,3 +3,4 @@ draft-reminders/
 credentials.json
 token.json
 quickstart.py
+__pycache__
